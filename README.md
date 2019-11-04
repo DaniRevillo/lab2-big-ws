@@ -13,7 +13,7 @@ Therefore, you must ensure that you runs this code with JDK 8.
 | NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |--------|-----------|------|--------------|-------------------|----------------------|--------
 |740388  | Diego Royo Meneses | [Test Branch](https://github.com/diegoroyo/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/diegoroyo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/diegoroyo/lab2-big-ws/tree/test)| Added tests for new languages (Spanish -> Polish, English -> Russian) |                      |
-|738866  | Javier G. Garcés | [Test 
+738866  | Javier G. Garcés | [Test 
 Branch](https://github.com/JaviBite/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/JaviBite/lab2-big-ws.svg?branch=test)](https://travis-ci.org/JaviBite/lab2-big-ws/tree/test)| Added tests for new languages (French -> Japanese, English -> Spanish) |                      |
 
        
